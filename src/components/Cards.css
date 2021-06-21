@@ -1,10 +1,11 @@
 .cards {
     padding: 4rem;
-    background: #fff;
+    background: rgb(204, 204, 204);
   }
   
   h1 {
     text-align: center;
+    color: #4B286D;
   }
   
   .cards__container {
