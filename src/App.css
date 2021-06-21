@@ -7,7 +7,7 @@
 
 .home,
 .services,
-.products,
+.ourTeam,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -17,21 +17,24 @@
 }
 
 .services {
-  background-image: url('images/img-2.jpg');
+  background-image: url('images/bg.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: #4B286D;
+  border-style: solid;
+  border-width: 2px;
+  font-size: 70px;
+  
 }
 
-.products {
-  background-image: url('images/img-1.jpg');
+.ourTeam {
+  background-image: url('images/bg.png');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: #4B286D;
+  font-size: 70px;
 }
 
 .sign-up {

@@ -16,7 +16,7 @@ function HeroSection() {
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          GET STARTED
+          Our Mission <i className='far fa-play-circle' />
         </Button>
         <Button
           className='btns'
@@ -24,7 +24,7 @@ function HeroSection() {
           buttonSize='btn--large'
           onClick={console.log('hey')}
         >
-          Our Mission <i className='far fa-play-circle' />
+          Contact Us 
         </Button>
       </div>
     </div>
