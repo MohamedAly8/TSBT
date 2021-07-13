@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TSBT/static/css/main.df2429e1.chunk.css",
+    "main.js": "/TSBT/static/js/main.c9b21ade.chunk.js",
+    "main.js.map": "/TSBT/static/js/main.c9b21ade.chunk.js.map",
+    "runtime-main.js": "/TSBT/static/js/runtime-main.0e981cfd.js",
+    "runtime-main.js.map": "/TSBT/static/js/runtime-main.0e981cfd.js.map",
+    "static/js/2.a7a4b710.chunk.js": "/TSBT/static/js/2.a7a4b710.chunk.js",
+    "static/js/2.a7a4b710.chunk.js.map": "/TSBT/static/js/2.a7a4b710.chunk.js.map",
+    "index.html": "/TSBT/index.html",
+    "static/css/main.df2429e1.chunk.css.map": "/TSBT/static/css/main.df2429e1.chunk.css.map",
+    "static/js/2.a7a4b710.chunk.js.LICENSE.txt": "/TSBT/static/js/2.a7a4b710.chunk.js.LICENSE.txt",
+    "static/media/5g.c7047ec0.jpg": "/TSBT/static/media/5g.c7047ec0.jpg",
+    "static/media/agriculture.6cda7d2d.jpg": "/TSBT/static/media/agriculture.6cda7d2d.jpg",
+    "static/media/App.css": "/TSBT/static/media/img-8.fabdf94d.jpg",
+    "static/media/eSIM.f2d57a94.jpg": "/TSBT/static/media/eSIM.f2d57a94.jpg",
+    "static/media/edge-compute.f44ca0c8.jpg": "/TSBT/static/media/edge-compute.f44ca0c8.jpg",
+    "static/media/smart-city.8e573c9e.jpg": "/TSBT/static/media/smart-city.8e573c9e.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/TSBT/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e981cfd.js",
+    "static/js/2.a7a4b710.chunk.js",
+    "static/css/main.df2429e1.chunk.css",
+    "static/js/main.c9b21ade.chunk.js"
+  ]
+}
