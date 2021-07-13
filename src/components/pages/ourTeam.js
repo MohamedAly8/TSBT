@@ -3,10 +3,6 @@ import '../../App.css'
 import Team from '../Team';
 
 export default function ourTeam() {
-    return (
-        <>
-            <Team />
-            <h1>hello</h1>
-        </>
-        );
+    return <h1 className="services">Meet the Team</
+    h1>;
 }
