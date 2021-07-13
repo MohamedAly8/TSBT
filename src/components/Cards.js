@@ -25,7 +25,6 @@ function Cards() {
             />
 
             <CardItem
-            
               src={edgecompute}
               text='Multi Access Edge Computing Solutions'
               /*label='Adventure'*/
